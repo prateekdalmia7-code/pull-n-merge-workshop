@@ -1,4 +1,4 @@
-const countElement = document.querySelector('#attendee-count');
+const countElement = ('#attendee-count');
 const joinButton = document.querySelector('#join-button');
 let attendeeCount = Number(countElement.textContent);
 
